@@ -1,5 +1,6 @@
 <img src="https://github.com/PoisonAlien/maftools/blob/master/vignettes/maftools.png" height="90" width="240" />
-
+# change log
+- validateMaf.R no obligate in using Variant_Classifications
 ------------------------------------------------------------------------
 
 ## maftools - An R package to summarize, analyze and visualize MAF files.

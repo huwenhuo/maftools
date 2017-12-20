@@ -101,7 +101,7 @@ biocLite("Biostrings")
 
 #Install maftools from github repository.
 library("devtools")
-install_github(repo = "PoisonAlien/maftools")
+install_github(repo = "huwenhuo/maftools")
 ```
 
 For full documentation please refer to [vignette](http://bioconductor.org/packages/devel/bioc/vignettes/maftools/inst/doc/maftools.html).
